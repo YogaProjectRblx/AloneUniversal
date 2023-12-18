@@ -64,8 +64,8 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "Click To Get The Key",
 	Callback = function()
-setclipboard("https://discord.com/invite/ZSnZPMBsc")
-toclipboard("https://discord.com/invite/ZSnZPMBsc")
+setclipboard("https://discord.com/invite/ZSnZPMBscb")
+toclipboard("https://discord.com/invite/ZSnZPMBscb")
       		print("button pressed")
   	end    
 })
