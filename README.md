@@ -67,8 +67,8 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "Click To Get The Key",
 	Callback = function()
-setclipboard("https://discord.com/invite/3cey3XQnKV")
-toclipboard("https://discord.com/invite/3cey3XQnKV")
+setclipboard("https://discord.com/invite/ZSnZPMBscb")
+toclipboard("https://discord.com/invite/ZSnZPMBscb")
       		print("button pressed")
   	end    
 })
@@ -127,8 +127,8 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "Click To Get The Old Key",
 	Callback = function()
-setclipboard("https://discord.com/invite/3cey3XQnKV")
-toclipboard("https://discord.com/invite/3cey3XQnKV")
+setclipboard("https://discord.com/invite/ZSnZPMBscb")
+toclipboard("https://discord.com/invite/ZSnZPMBscb")
       		print("Old button pressed")
   	end    
 })
